@@ -1,0 +1,45 @@
+D:\Nofdial2018\player\player\bin\Debug\RoboCup.exe
+D:\Nofdial2018\player\player\bin\Debug\RoboCup.pdb
+D:\Nofdial2018\player\player\bin\Debug\TinMan.dll
+D:\Nofdial2018\player\player\bin\Debug\TinMan.xml
+D:\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csproj.CoreCompileInputs.cache
+D:\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csproj.CopyComplete
+D:\Nofdial2018\player\player\obj\x86\Debug\RoboCup.exe
+D:\Nofdial2018\player\player\obj\x86\Debug\RoboCup.pdb
+D:\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csprojAssemblyReference.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\bin\Debug\RoboCup.exe
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\bin\Debug\RoboCup.pdb
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\bin\Debug\TinMan.dll
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\bin\Debug\TinMan.xml
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csprojResolveAssemblyReference.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csproj.CoreCompileInputs.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\obj\x86\Debug\RoboCup.csproj.CopyComplete
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\obj\x86\Debug\RoboCup.exe
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\player\player\obj\x86\Debug\RoboCup.pdb
+C:\Users\maozy\Desktop\keren\player\player\obj\x86\Debug\RoboCup.csproj.CoreCompileInputs.cache
+C:\Users\maozy\Desktop\keren\player\player\bin\Debug\RoboCup.exe
+C:\Users\maozy\Desktop\keren\player\player\bin\Debug\RoboCup.pdb
+C:\Users\maozy\Desktop\keren\player\player\bin\Debug\TinMan.dll
+C:\Users\maozy\Desktop\keren\player\player\bin\Debug\TinMan.xml
+C:\Users\maozy\Desktop\keren\player\player\obj\x86\Debug\RoboCup.csproj.CopyComplete
+C:\Users\maozy\Desktop\keren\player\player\obj\x86\Debug\RoboCup.exe
+C:\Users\maozy\Desktop\keren\player\player\obj\x86\Debug\RoboCup.pdb
+C:\Users\maozy\Desktop\keren\player\player\obj\x86\Debug\RoboCup.csprojAssemblyReference.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\obj\x86\Debug\RoboCup.csprojResolveAssemblyReference.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\obj\x86\Debug\RoboCup.csproj.CoreCompileInputs.cache
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\obj\x86\Debug\RoboCup.exe
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\obj\x86\Debug\RoboCup.pdb
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\bin\Debug\RoboCup.exe
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\bin\Debug\RoboCup.pdb
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\bin\Debug\TinMan.dll
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\bin\Debug\TinMan.xml
+C:\Users\lab_maker\Desktop\solution daniel & boris\Brazil\Nofdial2018\Solution_11_06\player\obj\x86\Debug\RoboCup.csproj.CopyComplete
+D:\v3 solution\player\bin\Debug\RoboCup.exe
+D:\v3 solution\player\bin\Debug\RoboCup.pdb
+D:\v3 solution\player\bin\Debug\TinMan.dll
+D:\v3 solution\player\bin\Debug\TinMan.xml
+D:\v3 solution\player\obj\x86\Debug\RoboCup.csprojAssemblyReference.cache
+D:\v3 solution\player\obj\x86\Debug\RoboCup.csproj.CoreCompileInputs.cache
+D:\v3 solution\player\obj\x86\Debug\RoboCup.csproj.CopyComplete
+D:\v3 solution\player\obj\x86\Debug\RoboCup.exe
+D:\v3 solution\player\obj\x86\Debug\RoboCup.pdb

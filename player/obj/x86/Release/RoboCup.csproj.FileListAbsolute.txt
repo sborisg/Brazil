@@ -1,0 +1,8 @@
+D:\v3 solution\player\bin\Release\RoboCup.exe
+D:\v3 solution\player\bin\Release\TinMan.dll
+D:\v3 solution\player\bin\Release\TinMan.xml
+D:\v3 solution\player\obj\x86\Release\RoboCup.csproj.CoreCompileInputs.cache
+D:\v3 solution\player\obj\x86\Release\RoboCup.csproj.CopyComplete
+D:\v3 solution\player\obj\x86\Release\RoboCup.exe
+D:\v3 solution\player\obj\x86\Release\RoboCup.pdb
+D:\v3 solution\player\obj\x86\Release\RoboCup.csprojAssemblyReference.cache
